@@ -1,0 +1,137 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Veronike",
+      "lastname": "Deuss",
+      "email": "vdeuss0@reference.com",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "firstname": "Rowney",
+      "lastname": "Touson",
+      "email": "rtouson1@statcounter.com",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "firstname": "Prudence",
+      "lastname": "Greste",
+      "email": "pgreste2@github.com",
+      "gender": "Genderfluid"
+    },
+    {
+      "id": 4,
+      "firstname": "Iormina",
+      "lastname": "Meriet",
+      "email": "imeriet3@mtv.com",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "firstname": "Ed",
+      "lastname": "Capitano",
+      "email": "ecapitano4@guardian.co.uk",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "firstname": "Esmaria",
+      "lastname": "Hembery",
+      "email": "ehembery5@accuweather.com",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "firstname": "Myca",
+      "lastname": "Yonge",
+      "email": "myonge6@umich.edu",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "firstname": "Muffin",
+      "lastname": "Gowlett",
+      "email": "mgowlett7@51.la",
+      "gender": "Male"
+    },
+    {
+      "id": 9,
+      "firstname": "Phineas",
+      "lastname": "O'Curneen",
+      "email": "pocurneen8@wikipedia.org",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "firstname": "Benjamin",
+      "lastname": "Sill",
+      "email": "bsill9@themeforest.net",
+      "gender": "Male"
+    },
+    {
+      "id": 11,
+      "firstname": "Anna",
+      "lastname": "Garr",
+      "email": "agarra@php.net",
+      "gender": "Female"
+    },
+    {
+      "id": 12,
+      "firstname": "Helene",
+      "lastname": "Berndtssen",
+      "email": "hberndtssenb@cafepress.com",
+      "gender": "Female"
+    },
+    {
+      "id": 13,
+      "firstname": "Ronny",
+      "lastname": "Copestake",
+      "email": "rcopestakec@mail.ru",
+      "gender": "Male"
+    },
+    {
+      "id": 14,
+      "firstname": "Rhianna",
+      "lastname": "Wragg",
+      "email": "rwraggd@bbc.co.uk",
+      "gender": "Genderfluid"
+    },
+    {
+      "id": 15,
+      "firstname": "Kristina",
+      "lastname": "McKall",
+      "email": "kmckalle@jugem.jp",
+      "gender": "Female"
+    },
+    {
+      "id": 16,
+      "firstname": "Abdul",
+      "lastname": "Nulty",
+      "email": "anultyf@shop-pro.jp",
+      "gender": "Non-binary"
+    },
+    {
+      "id": 17,
+      "firstname": "Gawen",
+      "lastname": "Ferminger",
+      "email": "gfermingerg@cnbc.com",
+      "gender": "Male"
+    },
+    {
+      "id": 18,
+      "firstname": "Sergent",
+      "lastname": "Kondratenya",
+      "email": "skondratenyah@theguardian.com",
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "firstname": "Hanan",
+      "lastname": "McGawn",
+      "email": "hmcgawni@cafepress.com",
+      "gender": "Genderfluid"
+    }
+  ]
+}
